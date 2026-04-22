@@ -1,0 +1,26 @@
+.app {
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(79, 70, 229, 0.08), transparent 25%),
+    radial-gradient(circle at 80% 30%, rgba(124, 58, 237, 0.08), transparent 25%);
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 24px 0 40px;
+}
+
+.main {
+  margin-top: 24px;
+}

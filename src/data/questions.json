@@ -1,0 +1,364 @@
+[
+  {
+    "id": 1,
+    "category": "Geografie",
+    "difficulty": "usor",
+    "question": "Care este capitala Frantei?",
+    "options": ["Paris", "Lyon", "Marseille", "Nisa"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "category": "Geografie",
+    "difficulty": "usor",
+    "question": "Care este cel mai lung fluviu din lume in majoritatea manualelor scolare?",
+    "options": ["Amazon", "Nil", "Dunarea", "Mississippi"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Pe ce continent se afla desertul Sahara?",
+    "options": ["Asia", "Africa", "Australia", "America de Sud"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Care este cel mai mare ocean de pe Pamant?",
+    "options": ["Oceanul Atlantic", "Oceanul Indian", "Oceanul Arctic", "Oceanul Pacific"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "category": "Geografie",
+    "difficulty": "usor",
+    "question": "Romania are iesire la ce mare?",
+    "options": ["Marea Baltica", "Marea Mediterana", "Marea Neagra", "Marea Nordului"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Care este capitala Japoniei?",
+    "options": ["Kyoto", "Osaka", "Tokyo", "Sapporo"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "category": "Geografie",
+    "difficulty": "usor",
+    "question": "Ce tara are forma de cizma pe harta Europei?",
+    "options": ["Spania", "Italia", "Grecia", "Portugalia"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "category": "Geografie",
+    "difficulty": "greu",
+    "question": "Care este capitala Canadei?",
+    "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Muntele Everest se afla in lantul muntos:",
+    "options": ["Anzi", "Alpi", "Himalaya", "Carpati"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "category": "Geografie",
+    "difficulty": "usor",
+    "question": "Care este capitala Republicii Moldova?",
+    "options": ["Balti", "Cahul", "Chisinau", "Orhei"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Ce tara este cunoscuta ca Tara Soarelui Rasare?",
+    "options": ["China", "Coreea de Sud", "Thailanda", "Japonia"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 12,
+    "category": "Geografie",
+    "difficulty": "greu",
+    "question": "Care este cea mai mare insula din lume?",
+    "options": ["Madagascar", "Groenlanda", "Borneo", "Islanda"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "category": "Geografie",
+    "difficulty": "mediu",
+    "question": "Dunarea se varsa in:",
+    "options": ["Marea Adriatica", "Marea Egee", "Marea Neagra", "Marea Caspica"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "category": "Geografie",
+    "difficulty": "greu",
+    "question": "Care este capitala Australiei?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "category": "Geografie",
+    "difficulty": "usor",
+    "question": "Cate continente exista pe glob, in clasificarea cea mai folosita la scoala?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": 2
+  },
+
+  {
+    "id": 16,
+    "category": "Istorie",
+    "difficulty": "usor",
+    "question": "In ce an a inceput Primul Razboi Mondial?",
+    "options": ["1912", "1914", "1916", "1918"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "category": "Istorie",
+    "difficulty": "usor",
+    "question": "Cine a fost primul imparat al Romei?",
+    "options": ["Iulius Cezar", "Nero", "Augustus", "Traian"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "Cine a descoperit America in 1492?",
+    "options": ["Vasco da Gama", "Cristofor Columb", "Magellan", "Marco Polo"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "category": "Istorie",
+    "difficulty": "usor",
+    "question": "In ce an a avut loc Revolutia Franceza?",
+    "options": ["1789", "1812", "1776", "1804"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "Care civilizatie a construit piramidele de la Giza?",
+    "options": ["Grecii", "Romanii", "Egiptenii", "Mesopotamienii"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "Al Doilea Razboi Mondial s-a incheiat in:",
+    "options": ["1943", "1944", "1945", "1946"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 22,
+    "category": "Istorie",
+    "difficulty": "greu",
+    "question": "Domnitorul care a unit pentru scurt timp Tarile Romane in 1600 a fost:",
+    "options": ["Mircea cel Batran", "Mihai Viteazul", "Alexandru Ioan Cuza", "Stefan cel Mare"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "category": "Istorie",
+    "difficulty": "usor",
+    "question": "In ce an a avut loc Unirea Principatelor Romane?",
+    "options": ["1848", "1859", "1877", "1918"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "Zidul Berlinului a cazut in anul:",
+    "options": ["1985", "1987", "1989", "1991"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 25,
+    "category": "Istorie",
+    "difficulty": "greu",
+    "question": "Imperiul Bizantin avea capitala la:",
+    "options": ["Atena", "Roma", "Constantinopol", "Alexandria"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "category": "Istorie",
+    "difficulty": "usor",
+    "question": "Cine a fost cunoscut drept \"Luceafarul poeziei romanesti\"?",
+    "options": ["Ion Creanga", "Mihai Eminescu", "Tudor Arghezi", "George Cosbuc"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "Razboiul Rece a opus in principal SUA si:",
+    "options": ["China", "Germania", "Japonia", "URSS"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 28,
+    "category": "Istorie",
+    "difficulty": "greu",
+    "question": "Magna Carta a fost semnata in:",
+    "options": ["Anglia", "Franta", "Spania", "Italia"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "category": "Istorie",
+    "difficulty": "usor",
+    "question": "In ce an a avut loc Marea Unire a Romaniei?",
+    "options": ["1859", "1877", "1918", "1940"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 30,
+    "category": "Istorie",
+    "difficulty": "mediu",
+    "question": "Cine a fost conducatorul Frantei asociat cu batalia de la Waterloo?",
+    "options": ["Ludovic al XIV-lea", "Napoleon Bonaparte", "Robespierre", "Voltaire"],
+    "correctAnswer": 1
+  },
+
+  {
+    "id": 31,
+    "category": "Stiinta",
+    "difficulty": "usor",
+    "question": "Care planeta este cea mai apropiata de Soare?",
+    "options": ["Venus", "Marte", "Mercur", "Jupiter"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 32,
+    "category": "Stiinta",
+    "difficulty": "usor",
+    "question": "Apa are formula chimica:",
+    "options": ["CO2", "H2O", "O2", "NaCl"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "category": "Stiinta",
+    "difficulty": "mediu",
+    "question": "Care organ pompeaza sangele in corpul uman?",
+    "options": ["Plamanul", "Ficatul", "Creierul", "Inima"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 34,
+    "category": "Stiinta",
+    "difficulty": "usor",
+    "question": "Ce gaz respira oamenii pentru a supravietui?",
+    "options": ["Oxigen", "Azot", "Dioxid de carbon", "Hidrogen"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 35,
+    "category": "Stiinta",
+    "difficulty": "mediu",
+    "question": "Forta care ne tine pe Pamant se numeste:",
+    "options": ["Magnetism", "Gravitatie", "Frecare", "Presiune"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "category": "Stiinta",
+    "difficulty": "greu",
+    "question": "Care este satelitul natural al Pamantului?",
+    "options": ["Marte", "Venus", "Luna", "Titan"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 37,
+    "category": "Stiinta",
+    "difficulty": "mediu",
+    "question": "La ce temperatura ingheata apa la presiune normala?",
+    "options": ["0°C", "10°C", "32°C", "-10°C"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 38,
+    "category": "Stiinta",
+    "difficulty": "usor",
+    "question": "Ce parte a plantei absoarbe apa din sol?",
+    "options": ["Frunza", "Floarea", "Radacina", "Fructul"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "category": "Stiinta",
+    "difficulty": "mediu",
+    "question": "Care este centrul sistemului nostru solar?",
+    "options": ["Pamantul", "Luna", "Soarele", "Jupiter"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 40,
+    "category": "Stiinta",
+    "difficulty": "greu",
+    "question": "Ce particula are sarcina electrica negativa?",
+    "options": ["Protonul", "Electronul", "Neutronul", "Fotoul"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "category": "Stiinta",
+    "difficulty": "mediu",
+    "question": "Fotosinteza are loc in special in:",
+    "options": ["Radacini", "Seminte", "Frunze", "Scoarta"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "category": "Stiinta",
+    "difficulty": "greu",
+    "question": "Care este cea mai mare planeta din sistemul solar?",
+    "options": ["Saturn", "Jupiter", "Neptun", "Uranus"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "category": "Stiinta",
+    "difficulty": "usor",
+    "question": "Ce simt ne ajuta sa percepem sunetele?",
+    "options": ["Vazul", "Auzul", "Mirosul", "Gustul"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "category": "Stiinta",
+    "difficulty": "mediu",
+    "question": "Ce metal este lichid la temperatura camerei?",
+    "options": ["Fier", "Mercur", "Aluminiu", "Cupru"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "category": "Stiinta",
+    "difficulty": "greu",
+    "question": "Unitatea de masura pentru forta in Sistemul International este:",
+    "options": ["Joule", "Pascal", "Newton", "Watt"],
+    "correctAnswer": 2
+  }
+]
